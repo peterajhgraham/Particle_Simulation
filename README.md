@@ -15,4 +15,4 @@ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 ./particle-sim
 ```
 
-### Enjoy!
+### Enjoy! (click on the screen to see what happens)
