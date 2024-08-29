@@ -172,7 +172,7 @@ public:
 };
 
 int main() {
-    sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Advanced Particle Simulation");
+    sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Particle Simulation");
     window.setFramerateLimit(60);
 
     ParticleSystem particleSystem;
